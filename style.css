@@ -18,6 +18,7 @@
     align-items: center;
     gap: 16px;
     border-bottom: 1px solid #D9FFF5;    
+    justify-content: space-between;
 }
 
 .link-menu {
